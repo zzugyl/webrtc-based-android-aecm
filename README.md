@@ -2,7 +2,7 @@
 Java API for android acoustic echo cancellation.
 =========================
 Update from  BillHoo. https://github.com/lhc180/webrtc-based-android-aecm
-
+Put en-00-raw-pcm-16000Hz-16bit-mono.pcm file to Android Device /sdcard/ before open this app.
 
 webrtc-based-android-aecm
 =========================
